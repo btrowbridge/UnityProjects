@@ -98,8 +98,8 @@ public class PlayerHealth : MonoBehaviour
 	}       
 
 
-    public void RestartLevel ()
-    {
-        Application.LoadLevel (Application.loadedLevel);
-    }
+    //public void RestartLevel ()
+    //{
+    //    Application.LoadLevel (Application.loadedLevel);
+    //}
 }
